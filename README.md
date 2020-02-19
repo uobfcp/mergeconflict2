@@ -1,4 +1,4 @@
-This project is for me and Dave
+This project is for Sally and Dave
 
 
 we're going to do cool stuff
