@@ -1,7 +1,7 @@
 This project is for Sally and Dave
 
 
-we're going to do some cool stuff
+We're going to do some cool stuff
 
 
 
